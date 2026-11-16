@@ -2,6 +2,8 @@
 
 An interactive, self-contained HTML dashboard for learning sorting algorithms: run six algorithms step by step on your own data, race them against each other, check which ones are stable, and see how sorting powers quantiles, boxplots, rank correlation and robust statistics.
 
+🌐 **Try it online:** **https://novrisuhermi-sorting.share.connect.posit.cloud**
+
 ![Home](screenshots/home.jpg)
 
 ## Features
@@ -15,6 +17,10 @@ An interactive, self-contained HTML dashboard for learning sorting algorithms: r
 - **Offline and self-contained**: one HTML file, no installation, no internet connection
 
 ## How to Use
+
+### Online
+
+Open the dashboard directly in your browser: **https://novrisuhermi-sorting.share.connect.posit.cloud**
 
 ### Offline
 
@@ -74,7 +80,7 @@ On a phone, tap the small arrow button at the top of a simulation to open its se
 
 ## 🇮🇩 Panduan Singkat (Bahasa Indonesia)
 
-1. **Unduh** file [`Sorting_Simulation_Case_Studies.html`](Sorting_Simulation_Case_Studies.html) (klik file, lalu tombol **Download raw file**), kemudian buka dengan browser (Chrome, Edge, Firefox, atau Safari). Tidak perlu instalasi atau koneksi internet.
+1. Buka dashboard secara **online** di **https://novrisuhermi-sorting.share.connect.posit.cloud**. Untuk memakainya **offline**, unduh file [`Sorting_Simulation_Case_Studies.html`](Sorting_Simulation_Case_Studies.html) (klik file, lalu tombol **Download raw file**), kemudian buka dengan browser (Chrome, Edge, Firefox, atau Safari); tidak perlu instalasi atau koneksi internet.
 2. Klik tombol **ID** di pojok kanan atas untuk menampilkan dashboard dalam Bahasa Indonesia.
 3. Mulai dari **Teori**: setiap algoritma punya tab berisi ide, langkah kerja, contoh berhitung, biaya, dan pseudocode. Tombol **Coba di simulasi** langsung membuka simulasinya.
 4. Di **Simulasi**, atur input di panel kiri, lalu tekan **Langkah ▶** atau **▶ Putar**. Baca pesan di bawah gambar pada setiap langkah.

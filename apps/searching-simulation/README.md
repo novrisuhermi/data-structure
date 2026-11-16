@@ -2,6 +2,8 @@
 
 An interactive, self-contained HTML dashboard for learning searching: race linear search against binary search, play the guessing game, handle duplicates with lower and upper bounds, try smarter guesses, and see how ECDFs, random sampling and grade bands are all searches.
 
+🌐 **Try it online:** **https://novrisuhermi-searching.share.connect.posit.cloud**
+
 ![Home](screenshots/home.jpg)
 
 ## Features
@@ -15,6 +17,10 @@ An interactive, self-contained HTML dashboard for learning searching: race linea
 - **Offline and self-contained**: one HTML file, no installation, no internet connection
 
 ## How to Use
+
+### Online
+
+Open the dashboard directly in your browser: **https://novrisuhermi-searching.share.connect.posit.cloud**
 
 ### Offline
 
@@ -73,7 +79,7 @@ On a phone, tap the small arrow button at the top of a simulation to open its se
 
 ## 🇮🇩 Panduan Singkat (Bahasa Indonesia)
 
-1. **Unduh** file [`Searching_Simulation_Case_Studies.html`](Searching_Simulation_Case_Studies.html) (klik file, lalu tombol **Download raw file**), kemudian buka dengan browser (Chrome, Edge, Firefox, atau Safari). Tidak perlu instalasi atau koneksi internet.
+1. Buka dashboard secara **online** di **https://novrisuhermi-searching.share.connect.posit.cloud**. Untuk memakainya **offline**, unduh file [`Searching_Simulation_Case_Studies.html`](Searching_Simulation_Case_Studies.html) (klik file, lalu tombol **Download raw file**), kemudian buka dengan browser (Chrome, Edge, Firefox, atau Safari); tidak perlu instalasi atau koneksi internet.
 2. Klik tombol **ID** di pojok kanan atas untuk menampilkan dashboard dalam Bahasa Indonesia.
 3. Mulai dari **Teori**: setiap algoritma punya tab berisi ide, langkah kerja, contoh berhitung, biaya, dan pseudocode. Tombol **Coba di simulasi** langsung membuka simulasinya.
 4. Di **Simulasi**, atur input di panel kiri, lalu tekan **Langkah ▶** atau **▶ Putar**. Baca pesan di bawah gambar pada setiap langkah.

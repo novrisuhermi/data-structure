@@ -18,7 +18,17 @@ Each dashboard turns an algorithm into something you can watch, step through and
 
 Every dashboard is a **single HTML file** that runs **offline** in any modern browser, in **English or Bahasa Indonesia**.
 
+🌐 **Try them online:**
+
+- Recursion dashboard: **https://novrisuhermi-recursion.share.connect.posit.cloud**
+- Sorting dashboard: **https://novrisuhermi-sorting.share.connect.posit.cloud**
+- Searching dashboard: **https://novrisuhermi-searching.share.connect.posit.cloud**
+
 ## 🚀 Quick Start
+
+**Online:** open one of the links above in your browser. Nothing to install.
+
+**Offline:**
 
 1. Open the folder of a dashboard (links in the table above).
 2. Click the `.html` file, then the **Download raw file** button.
@@ -58,10 +68,19 @@ Each app folder contains the dashboard (`.html`), its own `README.md`, and a `sc
 
 Repositori ini berisi dashboard pembelajaran interaktif untuk mata kuliah **Pengantar Struktur Data dan Algoritma**.
 
+Dashboard dapat langsung dibuka secara **online**:
+
+- Recursion: **https://novrisuhermi-recursion.share.connect.posit.cloud**
+- Sorting: **https://novrisuhermi-sorting.share.connect.posit.cloud**
+- Searching: **https://novrisuhermi-searching.share.connect.posit.cloud**
+
+Untuk memakainya secara **offline**:
+
 1. Buka folder dashboard yang diinginkan (Recursion, Sorting, atau Searching) melalui tautan pada tabel di atas.
 2. Klik file `.html`, lalu tombol **Download raw file**.
 3. Buka file yang terunduh dengan browser. Tidak perlu instalasi maupun internet.
-4. Klik tombol **ID** di pojok kanan atas untuk tampilan Bahasa Indonesia.
+
+Klik tombol **ID** di pojok kanan atas dashboard untuk tampilan Bahasa Indonesia.
 
 Setiap dashboard berisi **Teori** (penjelasan dan pseudocode setiap algoritma), **Simulasi** langkah demi langkah, **Studi kasus** statistika, dan **Latihan** soal beserta pembahasannya.
 

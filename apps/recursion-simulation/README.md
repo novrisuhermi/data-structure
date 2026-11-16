@@ -2,6 +2,8 @@
 
 An interactive, self-contained HTML dashboard for learning recursion: watch the call stack grow and shrink, see why naive Fibonacci explodes and how memoization fixes it, solve the Towers of Hanoi, and use recursion for real statistics.
 
+🌐 **Try it online:** **https://novrisuhermi-recursion.share.connect.posit.cloud**
+
 ![Home](screenshots/home.jpg)
 
 ## Features
@@ -15,6 +17,10 @@ An interactive, self-contained HTML dashboard for learning recursion: watch the 
 - **Offline and self-contained**: one HTML file, no installation, no internet connection
 
 ## How to Use
+
+### Online
+
+Open the dashboard directly in your browser: **https://novrisuhermi-recursion.share.connect.posit.cloud**
 
 ### Offline
 
@@ -73,7 +79,7 @@ On a phone, tap the small arrow button at the top of a simulation to open its se
 
 ## 🇮🇩 Panduan Singkat (Bahasa Indonesia)
 
-1. **Unduh** file [`Recursion_Simulation_Case_Studies.html`](Recursion_Simulation_Case_Studies.html) (klik file, lalu tombol **Download raw file**), kemudian buka dengan browser (Chrome, Edge, Firefox, atau Safari). Tidak perlu instalasi atau koneksi internet.
+1. Buka dashboard secara **online** di **https://novrisuhermi-recursion.share.connect.posit.cloud**. Untuk memakainya **offline**, unduh file [`Recursion_Simulation_Case_Studies.html`](Recursion_Simulation_Case_Studies.html) (klik file, lalu tombol **Download raw file**), kemudian buka dengan browser (Chrome, Edge, Firefox, atau Safari); tidak perlu instalasi atau koneksi internet.
 2. Klik tombol **ID** di pojok kanan atas untuk menampilkan dashboard dalam Bahasa Indonesia.
 3. Mulai dari **Teori**: setiap algoritma punya tab berisi ide, langkah kerja, contoh berhitung, biaya, dan pseudocode. Tombol **Coba di simulasi** langsung membuka simulasinya.
 4. Di **Simulasi**, atur input di panel kiri, lalu tekan **Langkah ▶** atau **▶ Putar**. Baca pesan di bawah gambar pada setiap langkah.
