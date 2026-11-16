@@ -65,10 +65,6 @@ Repositori ini berisi dashboard pembelajaran interaktif untuk mata kuliah **Peng
 
 Setiap dashboard berisi **Teori** (penjelasan dan pseudocode setiap algoritma), **Simulasi** langkah demi langkah, **Studi kasus** statistika, dan **Latihan** soal beserta pembahasannya.
 
-## 🛠️ Built With
-
-The dashboards use the same design as the [time series dashboards](https://github.com/novrisuhermi/time-series): Bootstrap 5 and bslib, jQuery, ion.rangeSlider and KaTeX (MIT licences), and the Inter typeface (SIL Open Font License). Everything is bundled inside each HTML file.
-
 ## 👤 Author
 
 **Novri Suhermi** — Department of Statistics, Institut Teknologi Sepuluh Nopember (ITS), Surabaya.
