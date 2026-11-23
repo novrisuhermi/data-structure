@@ -15,6 +15,7 @@ Each dashboard turns an algorithm into something you can watch, step through and
 | [**Recursion: Simulation & Case Studies**](apps/recursion-simulation/) | Watch the call stack grow and shrink, see why naive Fibonacci explodes and how memoization fixes it, solve the Towers of Hanoi, and use recursion for real statistics. |
 | [**Sorting: Simulation & Case Studies**](apps/sorting-simulation/) | Run six algorithms step by step on your own data, race them against each other, check which ones are stable, and see how sorting powers quantiles, boxplots, rank correlation and robust statistics. |
 | [**Searching: Simulation & Case Studies**](apps/searching-simulation/) | Race linear search against binary search, play the guessing game, handle duplicates with lower and upper bounds, try smarter guesses, and see how ECDFs, random sampling and grade bands are all searches. |
+| [**Hashing: Simulation & Case Studies**](apps/hashing-simulation/) | Test hash functions, watch separate chaining and open addressing step by step, see why tables resize, then match hashed customer emails for offline conversions, meet the birthday paradox, build a Bloom filter and split data by hashing IDs. |
 
 Every dashboard is a **single HTML file** that runs **offline** in any modern browser, in **English or Bahasa Indonesia**.
 
@@ -23,6 +24,9 @@ Every dashboard is a **single HTML file** that runs **offline** in any modern br
 - Recursion dashboard: **https://novrisuhermi-recursion.share.connect.posit.cloud**
 - Sorting dashboard: **https://novrisuhermi-sorting.share.connect.posit.cloud**
 - Searching dashboard: **https://novrisuhermi-searching.share.connect.posit.cloud**
+- Hashing dashboard: **https://novrisuhermi.github.io/apps/hashing/**
+
+All four dashboards are also collected on the course website: **https://novrisuhermi.github.io/apps/**
 
 ## 🚀 Quick Start
 
@@ -50,6 +54,7 @@ Every dashboard is a **single HTML file** that runs **offline** in any modern br
 1. **Recursion**: base case, call stack, recurrences, divide and conquer, memoization
 2. **Sorting**: simple sorts, merge sort and quick sort, the n log n lower bound, stability, radix sort
 3. **Searching**: linear and binary search, lower and upper bounds, interpolation and exponential search
+4. **Hashing**: hash functions, separate chaining and open addressing, load factor and resizing, SHA-256 matching, Bloom filters
 
 ## 🗂️ Repository Structure
 
@@ -58,7 +63,8 @@ data-structure/
 ├── apps/                          # Interactive dashboards (one folder each)
 │   ├── recursion-simulation/      # Recursion: simulation & case studies (HTML)
 │   ├── sorting-simulation/        # Sorting: simulation & case studies (HTML)
-│   └── searching-simulation/      # Searching: simulation & case studies (HTML)
+│   ├── searching-simulation/      # Searching: simulation & case studies (HTML)
+│   └── hashing-simulation/        # Hashing: simulation & case studies (HTML)
 └── README.md
 ```
 
@@ -73,10 +79,13 @@ Dashboard dapat langsung dibuka secara **online**:
 - Recursion: **https://novrisuhermi-recursion.share.connect.posit.cloud**
 - Sorting: **https://novrisuhermi-sorting.share.connect.posit.cloud**
 - Searching: **https://novrisuhermi-searching.share.connect.posit.cloud**
+- Hashing: **https://novrisuhermi.github.io/apps/hashing/**
+
+Keempat dashboard juga tersedia di situs mata kuliah: **https://novrisuhermi.github.io/apps/**
 
 Untuk memakainya secara **offline**:
 
-1. Buka folder dashboard yang diinginkan (Recursion, Sorting, atau Searching) melalui tautan pada tabel di atas.
+1. Buka folder dashboard yang diinginkan (Recursion, Sorting, Searching, atau Hashing) melalui tautan pada tabel di atas.
 2. Klik file `.html`, lalu tombol **Download raw file**.
 3. Buka file yang terunduh dengan browser. Tidak perlu instalasi maupun internet.
 
