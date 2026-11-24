@@ -1,6 +1,6 @@
 # Hashing: Simulation & Case Studies
 
-An interactive, self-contained HTML dashboard for learning hashing: test hash functions, watch separate chaining and open addressing step by step, see why tables resize, then match hashed customer emails for offline conversions, meet the birthday paradox, build a Bloom filter and split data by hashing IDs.
+An interactive, self-contained HTML dashboard for learning hashing: test hash functions, watch separate chaining and open addressing step by step, see why tables resize, follow SHA-256 round by round, then match hashed customer emails for offline conversions, meet the birthday paradox, build a Bloom filter and split data by hashing IDs.
 
 🌐 **Try it online:** **https://novrisuhermi.github.io/apps/hashing/**
 
@@ -51,7 +51,7 @@ On a phone, tap the small arrow button at the top of a simulation to open its se
 | Linear probing | Probe sequences, clustering, tombstones and Knuth's formulas |
 | Quadratic & double | Other probe sequences, and why the table size should be prime |
 | Load factor & resizing | Doubling, amortised O(1) inserts, and what Python's dict does |
-| Cryptographic hashing | SHA-256 matching of hashed emails, password storage and leak checks |
+| Cryptographic hashing | SHA-256 step by step, matching of hashed emails, password storage and leak checks |
 | Statistics algorithms | The birthday paradox, Bloom filters, stable sampling and group-by |
 
 ### Simulations
@@ -62,6 +62,7 @@ On a phone, tap the small arrow button at the top of a simulation to open its se
 | **Separate chaining** | Insert keys step by step, then search for or delete a key in its chain. | A search compares the key only with its own chain: about α keys. |
 | **Open addressing** | Linear probing, quadratic probing and double hashing with every probe shown, tombstones for deletion, and the probe sequence of every key. | Linear probing builds clusters; quadratic probing can fail although free slots remain. |
 | **Load factor and resizing** | Measured probes per search against Knuth's formulas for three methods, and a table that doubles at a chosen threshold. | Linear probing explodes near a full table; doubling keeps inserts O(1) amortised. |
+| **SHA-256 step by step** | Follow a text through padding, the message schedule and all 64 rounds, with the registers a to h and the avalanche against a second text. | One different bit spreads to about half of the 256 state bits within about six rounds. |
 
 ### Case studies
 

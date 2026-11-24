@@ -15,7 +15,7 @@ Each dashboard turns an algorithm into something you can watch, step through and
 | [**Recursion: Simulation & Case Studies**](apps/recursion-simulation/) | Watch the call stack grow and shrink, see why naive Fibonacci explodes and how memoization fixes it, solve the Towers of Hanoi, and use recursion for real statistics. |
 | [**Sorting: Simulation & Case Studies**](apps/sorting-simulation/) | Run six algorithms step by step on your own data, race them against each other, check which ones are stable, and see how sorting powers quantiles, boxplots, rank correlation and robust statistics. |
 | [**Searching: Simulation & Case Studies**](apps/searching-simulation/) | Race linear search against binary search, play the guessing game, handle duplicates with lower and upper bounds, try smarter guesses, and see how ECDFs, random sampling and grade bands are all searches. |
-| [**Hashing: Simulation & Case Studies**](apps/hashing-simulation/) | Test hash functions, watch separate chaining and open addressing step by step, see why tables resize, then match hashed customer emails for offline conversions, meet the birthday paradox, build a Bloom filter and split data by hashing IDs. |
+| [**Hashing: Simulation & Case Studies**](apps/hashing-simulation/) | Test hash functions, watch separate chaining and open addressing step by step, see why tables resize, follow SHA-256 round by round, then match hashed customer emails for offline conversions, meet the birthday paradox, build a Bloom filter and split data by hashing IDs. |
 
 Every dashboard is a **single HTML file** that runs **offline** in any modern browser, in **English or Bahasa Indonesia**.
 
